@@ -1,5 +1,5 @@
 # Book_Recommendation
-A simple Book Recommendation System with basic data mining techniques
+* A simple Book Recommendation System with basic data mining techniques
 
 The Book Crossing Data can be downloaded here: http://guidetodatamining.com/assets/data/BX-Dump.zip
 
